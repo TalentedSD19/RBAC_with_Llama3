@@ -1,4 +1,4 @@
-### **README: Role-Based Access Control and Natural Language to SQL Conversion with Llama 3 **
+# Role-Based Access Control and Natural Language to SQL Conversion with Llama 3 
 
 ---
 
